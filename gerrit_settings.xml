@@ -1,0 +1,3 @@
+<application>
+  <component name="GerritSettings" Login="gma" Host="http://10.2.0.63:8080/qct" ListAllChanges="false" AutomaticRefresh="true" RefreshTimeout="3" ReviewNotifications="true" PushToGerrit="false" ShowChangeNumberColumn="false" ShowChangeIdColumn="false" ShowTopicColumn="false" ShowProjectColumn="AUTO" CloneBaseUrl="" />
+</application>
