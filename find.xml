@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="QCT-1428 Port OpenAMIP protocol from CCT" />
-    <option name="defaultScopeName" value="QCT-1428 Port OpenAMIP protocol from CCT" />
+    <option name="customScope" value="QCT-1473 Add a common modem domain object for external and internal modem" />
+    <option name="defaultScopeName" value="QCT-1473 Add a common modem domain object for external and internal modem" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="QCT-1428 Port OpenAMIP protocol from CCT" />
+    <option name="SEARCH_SCOPE" value="QCT-1473 Add a common modem domain object for external and internal modem" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
