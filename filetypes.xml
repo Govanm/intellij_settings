@@ -1,27 +1,25 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern="test" type="JSON" />
-      <mapping pattern="openjdk-6-jdk" type="PLAIN_TEXT" />
       <mapping pattern="platform" type="PLAIN_TEXT" />
-      <mapping pattern="net" type="PLAIN_TEXT" />
       <mapping pattern="communicase-driverserver" type="PLAIN_TEXT" />
       <mapping pattern="communicase-javaserver" type="PLAIN_TEXT" />
+      <mapping pattern="net" type="PLAIN_TEXT" />
+      <mapping pattern="openjdk-6-jdk" type="PLAIN_TEXT" />
       <mapping pattern=".config" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
-      <mapping ext="iptables" type="PLAIN_TEXT" />
-      <mapping ext="dep" type="PLAIN_TEXT" />
-      <mapping ext="alias" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
-      <mapping ext="keys" type="PLAIN_TEXT" />
       <mapping ext="history" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="alias" type="PLAIN_TEXT" />
+      <mapping ext="keys" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="dep" type="PLAIN_TEXT" />
+      <mapping ext="iptables" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="pl" type="Perl" />
       <removed_mapping ext="pl" approved="true" type="Prolog resource" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -33,6 +31,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="pl" approved="true" type="Prolog resource" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="*.js.flow" type="Flow" />
     </extensionMap>
   </component>
 </application>
